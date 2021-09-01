@@ -1,10 +1,10 @@
-print(rotations("bhanu",1))
+print(rotation("bhanu",1))
 
 this is used to character rotations
 
 just give a char or a string and give how many rotations u need to rotate as
 
-print(rotations(string, number))
+print(rotation(string, number))
 
 ex::
 
