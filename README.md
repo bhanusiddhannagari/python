@@ -1,1 +1,1 @@
-# python
+print(rotations("bhanu",1))
